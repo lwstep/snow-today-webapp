@@ -1,3 +1,11 @@
+# v0.18.5 (2026-04-30)
+
+* Remove days_without_observation from plot dropdown menu.
+
+# v0.18.4 (2026-01-20)
+
+* Remove author from citation. 
+
 # v0.18.3 (2025-10-24)
 
 * Add author to citation.
